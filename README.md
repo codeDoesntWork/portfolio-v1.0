@@ -1,2 +1,2 @@
-# portfolio-v1.0
-This is minimal portfolio website
+# portfolio-v1
+My personal website built with simple html, css, js
